@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "9f660d8474a97b7d0097131d5790f38a"
+build_time: [1624328557, 85437000]
+inputs:
+  "/Users/Ronish/Documents/iOS Udemy/BMI-Calculator-iOS13/BMI Calculator/Controllers/ResultViewController.swift": [1624328556, 986631051]
+  "/Users/Ronish/Documents/iOS Udemy/BMI-Calculator-iOS13/BMI Calculator/Controllers/CalculateViewController.swift": [1624328557, 3931221]
+  "/Users/Ronish/Documents/iOS Udemy/BMI-Calculator-iOS13/BMI Calculator/AppDelegate.swift": [1624200989, 416948348]
+  "/Users/Ronish/Documents/iOS Udemy/BMI-Calculator-iOS13/BMI Calculator/Models/CalculatorBrain.swift": [1624327747, 821432184]
+  "/Users/Ronish/Documents/iOS Udemy/BMI-Calculator-iOS13/BMI Calculator/Models/BMI.swift": [1624326457, 735239713]
+  "/Users/Ronish/Documents/iOS Udemy/BMI-Calculator-iOS13/BMI Calculator/SceneDelegate.swift": [1624200989, 439538939]
